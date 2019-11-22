@@ -1,11 +1,11 @@
 {
-  "posts": [
+  "contacts": [
     {
       "id": 1,
       "title": "hello"
     }
   ],
-  "profe": {
-    "name": "ddaa"
+  "profile": {
+    "name": "typicode"
   }
 }
